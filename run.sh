@@ -1,0 +1,2 @@
+cd /home/ajeet/Downloads/Katalon_Studio_Linux_64
+katalon -noSplash  -runMode=console -projectPath="C:\Users\ajit\git\ProjectForCICDlinux\ProjectForCICDlinux.prj" -retry=0 -testSuitePath="Test Suites/TestSuit" -executionProfile="default" -browserType="Firefox"
